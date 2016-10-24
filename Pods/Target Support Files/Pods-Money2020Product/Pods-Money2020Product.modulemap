@@ -1,0 +1,6 @@
+framework module Pods_Money2020Product {
+  umbrella header "Pods-Money2020Product-umbrella.h"
+
+  export *
+  module * { export * }
+}

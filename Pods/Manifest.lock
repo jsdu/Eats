@@ -1,0 +1,31 @@
+PODS:
+  - ARSLineProgress (2.0.0)
+  - Fusuma (0.5.3)
+  - PickerView (0.3.0)
+  - Starscream (2.0.0)
+
+DEPENDENCIES:
+  - ARSLineProgress (~> 2.0)
+  - Fusuma (from `https://github.com/Ferrick90/Fusuma.git`, commit `a8a00a7`)
+  - PickerView
+  - Starscream (~> 2.0)
+
+EXTERNAL SOURCES:
+  Fusuma:
+    :commit: a8a00a7
+    :git: https://github.com/Ferrick90/Fusuma.git
+
+CHECKOUT OPTIONS:
+  Fusuma:
+    :commit: a8a00a7
+    :git: https://github.com/Ferrick90/Fusuma.git
+
+SPEC CHECKSUMS:
+  ARSLineProgress: a20f4093d44802184cbc135bcd56259d6f12d002
+  Fusuma: 02ffb3a9943792519f2c0972263b750acb550a49
+  PickerView: 1430ac060eba5f56c3d5e27ef0e47e280d083c9b
+  Starscream: 947c865596f0d6bb3f0203fee23228ed2d471468
+
+PODFILE CHECKSUM: 59c48eed310c4281b0e101b13ee75b4f4b1c657c
+
+COCOAPODS: 1.1.0.rc.2

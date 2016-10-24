@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ARSLineProgress.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Fusuma.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>PickerView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Money2020Product.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Starscream.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>711BC110CF3EDFBB564B543A8D17DC96</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7380ABD049E12DCFEC9B9E1D2D52C627</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>76D585BAB5B171A7CB107EB4BC7B6BFA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BF7493D8461B38FAFB0814FC48AABCB8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>ED493F248C4514818E8ED6C204659A17</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
